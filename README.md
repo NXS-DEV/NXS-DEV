@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NXS-DEV
 - 👀 I’m interested in ... [ Building Project]
-- 🌱 I’m currently learning ... [Csharp]
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... many projects
 - 📫 How to reach me ... im always reachable
 
 <!---
